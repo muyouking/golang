@@ -1,0 +1,4 @@
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394 h1:OYA+5W64v3OgClL+IrOD63t4i/RW7RqrAVl9LTZ9UqQ=
+github.com/axgle/mahonia v0.0.0-20180208002826-3358181d7394/go.mod h1:Q8n74mJTIgjX4RBBcHnJ05h//6/k6foqmgE45jTQtxg=
+github.com/larspensjo/config v0.0.0-20160228172812-b6db95dc6321 h1:HuvFF+bNfti7Q3taQTLox7YntC2IzUzM8pn2zyRTn98=
+github.com/larspensjo/config v0.0.0-20160228172812-b6db95dc6321/go.mod h1:2tvhHYSOp38Gz/nhlXdCBepDFHG1/GCI0nuk4Dv9EyM=
